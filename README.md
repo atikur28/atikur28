@@ -1,6 +1,6 @@
 ![Web Developer](./github-banner.png)
 ***
-#### Hi, I'm Atikur Rahman Sakib 👋
+### Hi, I'm Atikur Rahman Sakib 👋
 - 👑 I am a Web Developer.
 - 🖊 Love to write code.
 - 🎤 Like to share my knowledge.
@@ -11,7 +11,7 @@ I am a Font End Web Developer who is passionate  of making error free websites. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atikur28&theme=holi&show_icons=true)
 
-##### 👨‍💻 Skills: 
+#### 👨‍💻 Skills: 
 ***
 <p align="center">
   <a href="https://skillicons.dev">
@@ -24,7 +24,7 @@ I am a Font End Web Developer who is passionate  of making error free websites. 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur28&layout=compact)
 
-##### ☕ Connect with me:
+#### ☕ Connect with me:
 ***
 <p align="left">
 <a href="https://linkedin.com/in/atikur-rahman-sakib-9722612a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atikur-rahman-sakib-9722612a4" height="30" width="40" /></a>
