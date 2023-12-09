@@ -1,4 +1,4 @@
-![Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developer](./Blue and White Gradient Web Developer LinkedIn Article Cover Image.png)
 ***
 #### Hi, I'm Atikur Rahman Sakib 👋
 - 👑 I am a Web Developer.
