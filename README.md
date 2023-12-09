@@ -9,6 +9,12 @@
 
 I am a Font End Web Developer who is passionate  of making error free websites. I have passion for learning and sharing my knowledge with others as publicly.
 
+### 🧾 Projects: 
+***
+1. **HungryHarmony Restaurent Platform:** [Live Link](https://hungry-harmony.web.app/)
+2. **InnovateHub - Contest Platform:** [Live Link](https://contest-hub-6df80.web.app/)
+3. **TechHub - Your Premier Brand Shop for Tech Enthusiasts:** [Live Link](https://tech-electro-hub.web.app/)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=atikur28&theme=holi&show_icons=true)
 
 #### 👨‍💻 Skills: 
