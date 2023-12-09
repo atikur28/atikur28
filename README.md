@@ -22,7 +22,7 @@ I am a Font End Web Developer who is passionate  of making error free websites. 
 - 🌱 I’m currently learning Next.js 
 - 💬 Ask me about Web Development
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur28)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur28&layout=compact)
 
 ##### ☕ Connect with me:
 ***
