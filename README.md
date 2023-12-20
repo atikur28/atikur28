@@ -1,4 +1,4 @@
-![Web Developer](./github-banner.png)
+![Web Developer](./github-banner-2.png)
 ***
 ### Hi, I'm Atikur Rahman Sakib 👋
 - 👑 I am a Font-End Web Developer.
