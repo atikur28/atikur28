@@ -1,4 +1,4 @@
-![Web Developer](./github-banner-animation.mp4)
+![Web Developer](./github-banner.png)
 ***
 ### Hi, I'm Atikur Rahman Sakib 👋
 - 👑 I am a Font-End Web Developer.
