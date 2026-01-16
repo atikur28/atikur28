@@ -3,7 +3,7 @@
 ---
 
 ## Hi, I'm Atikur Rahman Sakib  
-### Full Stack Web Developer | MERN • PostgreSQL • Prisma
+### Full Stack Web Developer | MERN • Next.js
 
 I am a passionate **Full Stack Web Developer** focused on building **scalable, high-performance, and production-ready web applications**.  
 I care deeply about **clean architecture, maintainable code, optimized performance, and real-world problem solving**.
