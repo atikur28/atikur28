@@ -26,16 +26,16 @@ I believe great software is not just written — it is **engineered**.
 ## Featured Projects
 
 1. **LuxOra – Premium Fashion & Lifestyle Platform**
-   Live: https://luxora-kappa.vercel.app/  
+   Live: https://luxora-kappa.vercel.app  
    A modern, scalable full-stack web application focused on premium user experience, clean UI, and performance-driven architecture.  
    *(Designed with production-level structure and real-world use cases)*
 
 3. **InnovateHub – Online Contest Platform**  
-   Live: https://contest-hub-6df80.web.app/  
+   Live: https://contest-hub-6df80.web.app  
    A full-stack contest hosting and participation platform with authentication, role-based access, and dynamic content management.
 
 4. **HungryHarmony – Restaurant Platform**  
-   Live: https://hungry-harmony.web.app/  
+   Live: https://hungry-harmony.web.app  
    A restaurant management and ordering platform featuring responsive design, backend integration, and smooth user interaction.
 
 ---
@@ -81,8 +81,10 @@ I believe great software is not just written — it is **engineered**.
 
 ## GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atikur28&theme=holi&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur28&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atikur28&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur28&layout=compact&theme=tokyonight&cache_seconds=1800)
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atikur28&theme=duskfox)](https://git.io/streak-stats)
 
 ---
