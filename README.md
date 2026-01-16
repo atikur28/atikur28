@@ -1,41 +1,103 @@
-![Web Developer](./github-banner-2.png)
-***
-### Hi, I'm Atikur Rahman Sakib 👋
-- 👑 I am a Font-End Web Developer.
-- 🖊 Love to write code.
-- 🎤 Like to share my knowledge.
+![Web Developer](./github-banner-3.png)
 
-![](https://komarev.com/ghpvc/?username=atikur28)
+---
 
-I am a Font End Web Developer who is passionate  of making error free websites. I have passion for learning and sharing my knowledge with others as publicly.
+## Hi, I'm Atikur Rahman Sakib  
+### Full Stack Web Developer | MERN • PostgreSQL • Prisma
 
-### 🧾 Projects: 
-***
-1. **HungryHarmony Restaurent:** [Live Link](https://hungry-harmony.web.app/)
-2. **InnovateHub - Contest Platform:** [Live Link](https://contest-hub-6df80.web.app/)
-3. **TechHub - Your Premier Brand Shop for Tech Enthusiasts:** [Live Link](https://tech-electro-hub.web.app/)
+I am a passionate **Full Stack Web Developer** focused on building **scalable, high-performance, and production-ready web applications**.  
+I care deeply about **clean architecture, maintainable code, optimized performance, and real-world problem solving**.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=atikur28&theme=holi&show_icons=true)
+I believe great software is not just written — it is **engineered**.
 
-#### 👨‍💻 Skills: 
-***
+![Profile Views](https://komarev.com/ghpvc/?username=atikur28)
+
+---
+
+## What I Do
+- Build complete full-stack web applications
+- Design clean, responsive, and user-focused UI
+- Develop secure and scalable backend APIs
+- Work with relational & NoSQL databases
+- Deploy, monitor, and maintain production apps
+
+---
+
+## Featured Projects
+
+1. **LuxOra – Premium Fashion & Lifestyle Platform**
+   Live: https://luxora-kappa.vercel.app/  
+   A modern, scalable full-stack web application focused on premium user experience, clean UI, and performance-driven architecture.  
+   *(Designed with production-level structure and real-world use cases)*
+
+3. **InnovateHub – Online Contest Platform**  
+   Live: https://contest-hub-6df80.web.app/  
+   A full-stack contest hosting and participation platform with authentication, role-based access, and dynamic content management.
+
+4. **HungryHarmony – Restaurant Platform**  
+   Live: https://hungry-harmony.web.app/  
+   A restaurant management and ordering platform featuring responsive design, backend integration, and smooth user interaction.
+
+---
+
+## Tech Stack & Skills
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,css,html,js,express,mongodb,nodejs,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,postgres,tailwind,git" />
+</p>
+
+### Frontend
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- RESTful API Development
+- Authentication & Authorization
+
+### Database
+- MongoDB
+- PostgreSQL
+
+### ORM
+- Prisma
+
+### Tools & Workflow
+- VS Code
+- Postman
+- Git & GitHub
+- Vercel (Deployment)
+
+---
+
+## Currently
+- Learning **PostgreSQL** deeply for scalable relational database design
+- Improving backend architecture using **Prisma ORM**
+- Exploring best practices for performance and security
+
+---
+
+## GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atikur28&theme=holi&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur28&layout=compact)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atikur28&theme=duskfox)](https://git.io/streak-stats)
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/atikur-rahman-next-developer" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/atikurrahmansakib.2828" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40"/>
   </a>
 </p>
 
-- 🌱 I’m currently learning Next.js 
-- 💬 Ask me about Web Development
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur28&layout=compact)
-
-#### ☕ Connect with me:
-***
-<p align="left">
-<a href="https://linkedin.com/in/atikur-rahman-sakib-9722612a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atikur-rahman-sakib-9722612a4" height="30" width="40" /></a>
-<a href="https://fb.com/atikurrahmansakib.2828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atikurrahmansakib.2828" height="30" width="40" /></a>
-</p> 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=atikur28&theme=duskfox)](https://git.io/streak-stats)
-
+### Clean Code • Scalable Systems • Full Stack Engineering
