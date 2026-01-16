@@ -27,17 +27,15 @@ I believe great software is not just written — it is **engineered**.
 
 1. **LuxOra – Premium Fashion & Lifestyle Platform**
    Live: https://luxora-kappa.vercel.app  
-   A modern, scalable full-stack web application focused on premium user experience, clean UI, and performance-driven architecture.  
-   *(Designed with production-level structure and real-world use cases)*
-
-3. **InnovateHub – Online Contest Platform**  
+   A modern, high-performance, and secure e-commerce platform built with Next.js & TypeScript, featuring multi-language support, theme customization, encrypted payments, and a smooth, responsive shopping experience designed for scalability and reliability.
+   
+2. **InnovateHub – Online Contest Platform**  
    Live: https://contest-hub-6df80.web.app  
-   A full-stack contest hosting and participation platform with authentication, role-based access, and dynamic content management.
+   A full-stack contest management platform with role-based dashboards, secure authentication, payment-based registrations, and dynamic contest discovery—built to connect admins, creators, and participants seamlessly.
 
-4. **HungryHarmony – Restaurant Platform**  
+3. **HungryHarmony – Restaurant Platform**  
    Live: https://hungry-harmony.web.app  
-   A restaurant management and ordering platform featuring responsive design, backend integration, and smooth user interaction.
-
+   A responsive restaurant and food-ordering platform offering smart search, pagination, secure ordering, user dashboards, and a smooth checkout flow for an efficient and user-friendly dining experience.
 ---
 
 ## Tech Stack & Skills
