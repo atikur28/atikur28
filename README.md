@@ -83,7 +83,7 @@ I believe great software is not just written — it is **engineered**.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atikur28&layout=compact&theme=tokyonight)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=atikur28&theme=tokyonight&hide_border=false&border_radius=12&fire=FF6B6B&currStreakNum=00FFB0&sideNums=AAAAAA&sideLabels=CCCCCC&currStreakLabel=FFFFFF&dates=BBBBBB)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atikur28&theme=duskfox&hide_border=false&border_radius=12&fire=FF6B6B&currStreakNum=00FFB0&sideNums=AAAAAA&sideLabels=CCCCCC&currStreakLabel=FFFFFF&dates=BBBBBB)](https://git.io/streak-stats)
 ---
 
 ## Connect With Me
