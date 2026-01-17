@@ -92,6 +92,7 @@ I believe great software is not just written — it is **engineered**.
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=atikur28&theme=duskfox&hide_border=false&border_radius=12&fire=FF6B6B&currStreakNum=00FFB0&sideNums=AAAAAA&sideLabels=CCCCCC&currStreakLabel=FFFFFF&dates=BBBBBB)
 
 </div>
+---
 
 ## Connect With Me
 
